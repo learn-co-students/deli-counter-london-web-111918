@@ -1,6 +1,4 @@
 # Write your code here.
-#katz_deli = ["Amanda", "Annette", "Ruchi", "Jason", "Logan", "Spencer", "Avi", "Joe", "Rachel", "Lindsey"]
-
 def line(katz_deli)
   current_line = []
   if katz_deli.length == 0
@@ -24,3 +22,4 @@ def now_serving(katz_deli)
     puts "There is nobody waiting to be served!"
   end
 end
+#katz_deli = ["Amanda", "Annette", "Ruchi", "Jason", "Logan", "Spencer", "Avi", "Joe", "Rachel", "Lindsey"]
